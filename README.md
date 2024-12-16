@@ -4,7 +4,7 @@ Mill+: An intuitive tool for simulating the milling process, vibration mitigatio
 
 Copyright (c) 2024. Mill+ All Rights Reserved. This work is protected by copyright laws and international treaties.
 
-Authors: Gorka Urbikain Pelayo, Daniel Olvera Trejo, Luis Norberto López de Lacalle, Alex Elías Zuñiga
+Authors: Gorka Urbikain Pelayo, Daniel Olvera Trejo
 
 Purpose
 Mill+ is a computational tool created to optimize milling processes by addressing common challenges such as vibration mitigation, productivity improvement, and surface quality control. By leveraging machining dynamics and intuitive simulations, Mill+ enables users to:
